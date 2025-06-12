@@ -9,3 +9,7 @@ Parts List (https://pcpartpicker.com/list/Tzgzxg):
   Storage -- Western Digital WD_Black SN850X 2 TB M.202280 PCIe 4.0 X4 NVME SSD
   Power Supply -- Corsair RM1000e (2023) 1000 W 80+ Gold Certified ATX Power Supply
   Case -- Fractal Design North ATX Mid Tower Case
+
+Compatibility:
+  - ASUS RTX 5070 length is 304 mm : Fractal North has 355 mm clearance
+  - ASUS RTX 5070 required 750 W : Power supply choice of 850 or 1000
