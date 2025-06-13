@@ -1,15 +1,20 @@
 PC Build for Summer 2025
 
 Parts List (https://pcpartpicker.com/list/Tzgzxg):
-  Motherboard -- MSI MAG X870 TOMAHWAK WIFI ATX AM5 Motherboard
-  GPU -- ASUS GeForce RTX 5070 12GB VRAM
+  Motherboard -- MSI MAG X870 TOMAHAWK WIFI ATX AM5 Motherboard
+    * https://www.msi.com/Motherboard/MAG-X870-TOMAHAWK-WIFI
+  GPU -- ASUS PRIME GeForce RTX 5070 12GB
+    * https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5070-o12g/
   CPU -- AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor
-     CPU Cooler -- Thermalright Phantom SPirit 120 SE 66.17 CFM CPU Cooler
+    * https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html
+  CPU Cooler -- Thermalright Phantom SPirit 120 SE 66.17 CFM CPU Cooler
+    * https://www.thermalright.com/product/phantom-spirit-120-se/
   Memory -- TEAMGROUP T-Create Expert 32GB (2x16 GB) DDR5-6000 CL30 Memory
+    * https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/expert-u-dimm-ddr5-black/expert-u-dimm-ddr5-black-CTCED532G6000HC30DC01/
   Storage -- Western Digital WD_Black SN850X 2 TB M.202280 PCIe 4.0 X4 NVME SSD
-  Power Supply -- Corsair RM1000e (2023) 1000 W 80+ Gold Certified ATX Power Supply
+    * https://shop.sandisk.com/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd?sku=WDS200T2X0E-00BCA0
+  Power Supply -- Corsair RM850e (2023) 850 W 80+ Gold Certified ATX Power Supply
+    * https://www.corsair.com/us/en/p/psu/cp-9020263-na/rme-series-rm850e-fully-modular-low-noise-atx-power-supply-cp-9020263-na
   Case -- Fractal Design North ATX Mid Tower Case
+    * https://www.fractal-design.com/products/cases/north/north/chalk-white/
 
-Compatibility:
-  - ASUS RTX 5070 length is 304 mm : Fractal North has 355 mm clearance
-  - ASUS RTX 5070 required 750 W : Power supply choice of 850 or 1000
